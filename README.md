@@ -10,5 +10,5 @@ Este repositório contém 5 mini projetos desenvolvidos durante o curso utilizan
 
 Foram desenvolvidas apenas as interfaces e não a parte de back-end, então não é possível realmente cadastrar um e-mail no projeto de e-mail por exemplo.
 
-Website para visualizar os exemplos:
+Website para visualizar os projetos:
 https://clayton-klein.github.io/tailwind-mini-projects/
