@@ -6,9 +6,13 @@
 
 ## Mini Projetos:
 
-Este repositório contém 5 mini projetos desenvolvidos durante o curso utilizando o framework CSS Tailwind.
+- Este repositório contém 5 projetos simples desenvolvidos durante este curso.
 
-Foram desenvolvidas apenas as interfaces e não a parte de back-end, então não é possível realmente cadastrar um e-mail no projeto de e-mail por exemplo.
+- Foram desenvolvidas apenas as interfaces e não a parte de back-end, então não é possível realmente cadastrar um e-mail no projeto de e-mail por exemplo.
 
-Website para visualizar os projetos:
+- Todos os projetos estão utilizando Tailwind via CDN.
+
+<br>
+
+Clique neste link para visualizar os projetos:
 https://clayton-klein.github.io/tailwind-mini-projects/
